@@ -1,6 +1,4 @@
 const express = require('express');
-var http = require('http');
-var fs = require('fs');
 const cors = require('cors');
 const app = express();
 var corsOptions = {
